@@ -1,0 +1,17 @@
+{
+    "id": "cldfbench_greenhill_et_al_subm",
+    "title": null,
+    "description": null,
+    "license": null,
+    "url": null,
+    "citation": null,
+    "name": null,
+    "author": "Greenhill, Haynie et al.",
+    "year": null,
+    "scaling": "years",
+    "analysis": "bayesian",
+    "family": "utoa1244",
+    "cldf": "https://github.com/lexibank/utoaztecan",
+    "data": "https://github.com/lexibank/utoaztecan",
+    "missing": {}
+}

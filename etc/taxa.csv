@@ -1,0 +1,37 @@
+taxon,glottocode,xd_ids,soc_ids
+Aztec_Tetelcingo-30,tete1251,,
+Aztec_Zacapoaxtla-31,high1278,,
+Cahuilla-12,cahu1264,"xd1131, xd1439, xd1440","B144, Nc31, WNAI85, WNAI86, WNAI87"
+Chemehuevi-7,chem1251,xd1190,"Nd54, WNAI135"
+Classical_Aztec-29,clas1250,xd1301,"Nj2, SCCS153"
+Comanche-5,coma1245,xd1222,"B241, Ne3, SCCS147"
+Cora-27,elna1235,,
+Cupeno-13,cupe1243,xd1132,"B145, Nc32, WNAI83"
+Eudeve-21,eude1234,,
+Gabrielino-15,tong1329,xd1128,"B156, Nc29, WNAI81"
+Guarijio-22,huar1255,,
+Hopi-16,hopi1249,xd1268,"Nh18, WNAI159"
+Huichol-28,huic1243,xd1288,"Ni3, SCCS152"
+Kawaiisu-6,kawa1283,xd1126,"B199, Nc27, WNAI79"
+Kiowa-35,kiow1266,xd1216,"B243, Ne17"
+Kitanemuk-34,kita1252,,
+Luiseno-14,luis1253,xd1133,"B150, Nc33, WNAI82"
+Mayo-25,mayo1264,,
+Mono-1,mono1275,"xd1122, xd1162, xd1164, xd993","B157, B202, B206, B211, B219, Nc23, Nd29, Nd30, WNAI117, WNAI71, WNAI72"
+Northern_Paiute-2,nort2954,,
+Northern_Tepehuan-19,nort2959,xd1294,Ni9
+Opata-20,opat1246,xd1293,Ni8
+Pannamint-3,pana1305,"xd1165, xd1166, xd1167","B192, B195, B197, B200, Nd31, Nd32, Nd33, WNAI118"
+Papago-Pima-17,toho1245,,
+Pima_de_Onavas-18,pima1248,,
+Pipil-32,pipi1250,,
+San_Juan_Pueblo_Tewa-36,sanj1276,xd1429,WNAI166
+Serrano-11,serr1255,xd1130,"B149, Nc30, WNAI84"
+Shoshoni_Gosiute_Dialect-4,gosi1242,xd1183,"B214, Nd48, WNAI124"
+Southeastern_Tepehuan-33,sout2976,,
+Southern_Paiute-8,sout2969,"xd1187, xd1188, xd1189, xd1192","B204, Nd51, Nd52, Nd53, Nd55, Nd56, WNAI132, WNAI133, WNAI134"
+Southern_Ute-9,utee1244,"xd1152, xd1184, xd1186, xd1193, xd1194, xd1195, xd1197, xd1198, xd1199, xd991","B201, B209, B222, B230, B234, Nd2, Nd49, Nd50, Nd57, Nd58, Nd59, Nd60, Nd61, Nd62, WNAI129, WNAI130, WNAI131"
+Tarahumara-23,cent2131,xd1286,Ni1
+Tubar-24,tuba1279,,
+Tubatulabel-10,tuba1278,xd1118,"B152, Nc2, WNAI78"
+Yaqui-26,yaqu1251,xd1292,Ni7

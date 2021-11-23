@@ -16,20 +16,20 @@
         {
             "rdf:about": "https://github.com/phlorest/greenhill_et_al_subm",
             "rdf:type": "prov:Entity",
-            "dc:created": "ba22b08",
+            "dc:created": "c7eb356",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-52-g73da501d96",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",

@@ -9,26 +9,24 @@ class Dataset(phlorest.Dataset):
 
     def cmd_makecldf(self, args):
         self.init(args)
-
-        with phlorest.NexusFile(self.cldf_dir / 'summary.trees') as nex:
-           self.add_tree_from_nexus(
-               args,
-               self.raw_dir / 'ua-covarion-relaxed.mcct.trees',
-               nex,
-               'summary',
-               'summary',
-               detranslate=True,
-           )
-
+        args.writer.add_summary(
+            self.raw_dir.read_tree(
+                'ua-covarion-relaxed.mcct.trees', detranslate=True),
+            self.metadata,
+            args.log)
+        
         posterior = self.sample(
-           self.remove_burnin(
-               self.read_gzipped_text(self.raw_dir / 'ua-covarion-relaxed.trees.gz'),
-               10001),
-           detranslate=True,
-           as_nexus=True)
+            self.remove_burnin(
+                self.raw_dir.read('ua-covarion-relaxed.trees.gz'),
+                10001),
+            detranslate=True,
+            as_nexus=True)
+        args.writer.add_posterior(
+            posterior.trees.trees,
+            self.metadata,
+            args.log)
 
-        with phlorest.NexusFile(self.cldf_dir / 'posterior.trees') as nex:
-           for i, tree in enumerate(posterior.trees.trees, start=1):
-               self.add_tree(args, tree, nex, 'posterior-{}'.format(i), 'sample')
-
-        self.add_data(args, self.raw_dir / 'utoaztecan.nex')
+        args.writer.add_data(
+            self.raw_dir.read_nexus('utoaztecan.nex'),
+            self.characters, 
+            args.log)

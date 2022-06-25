@@ -14,17 +14,11 @@ class Dataset(phlorest.Dataset):
                 'ua-covarion-relaxed.mcct.trees', detranslate=True),
             self.metadata,
             args.log)
-        
-        posterior = self.sample(
-            self.remove_burnin(
-                self.raw_dir.read('ua-covarion-relaxed.trees.gz'),
-                10001),
-            detranslate=True,
-            as_nexus=True)
-        args.writer.add_posterior(
-            posterior.trees.trees,
-            self.metadata,
-            args.log)
+
+        posterior = self.raw_dir.read_trees(
+            'ua-covarion-relaxed.trees.gz',
+            burnin=10001, sample=1000, detranslate=True)
+        args.writer.add_posterior(posterior, self.metadata, args.log)
 
         args.writer.add_data(
             self.raw_dir.read_nexus('utoaztecan.nex'),

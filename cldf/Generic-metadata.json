@@ -8,8 +8,9 @@
     "dc:bibliographicCitation": "...",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:license": "https://creativecommons.org/licenses/by/2.0/",
+    "dc:source": "sources.bib",
     "dc:subject": {
-        "family": "Uto-Aztecan [utoa1244]",
+        "family": "Uto-Aztecan",
         "analysis": "bayesian",
         "scaling": "years"
     },
@@ -25,13 +26,13 @@
         {
             "rdf:about": "https://github.com/phlorest/greenhill_et_al_subm",
             "rdf:type": "prov:Entity",
-            "dc:created": "e75f82e",
+            "dc:created": "4bd7083",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],

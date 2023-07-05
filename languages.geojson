@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.893,
+          18.8854
+        ]
+      },
+      "properties": {
+        "Name": "Aztec_Tetelcingo-30",
+        "Glottocode": "tete1251",
+        "Glottolog_Name": "Tetelcingo Nahuatl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5556,
+          20.1554
+        ]
+      },
+      "properties": {
+        "Name": "Aztec_Zacapoaxtla-31",
+        "Glottocode": "high1278",
+        "Glottolog_Name": "Highland Puebla Nahuatl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.691,
+          33.5324
+        ]
+      },
+      "properties": {
+        "Name": "Cahuilla-12",
+        "Glottocode": "cahu1264",
+        "Glottolog_Name": "Cahuilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.438436,
+          35.356093
+        ]
+      },
+      "properties": {
+        "Name": "Chemehuevi-7",
+        "Glottocode": "chem1251",
+        "Glottolog_Name": "Chemehuevi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.97,
+          19.72
+        ]
+      },
+      "properties": {
+        "Name": "Classical_Aztec-29",
+        "Glottocode": "clas1250",
+        "Glottolog_Name": "Classical Nahuatl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0,
+          34.0
+        ]
+      },
+      "properties": {
+        "Name": "Comanche-5",
+        "Glottocode": "coma1245",
+        "Glottolog_Name": "Comanche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.467,
+          22.4099
+        ]
+      },
+      "properties": {
+        "Name": "Cora-27",
+        "Glottocode": "elna1235",
+        "Glottolog_Name": "El Nayar Cora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.515,
+          33.3148
+        ]
+      },
+      "properties": {
+        "Name": "Cupeno-13",
+        "Glottocode": "cupe1243",
+        "Glottolog_Name": "Cupe\u00f1o"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0,
+          28.5
+        ]
+      },
+      "properties": {
+        "Name": "Eudeve-21",
+        "Glottocode": "eude1234",
+        "Glottolog_Name": "Eudeve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11,
+          34.1
+        ]
+      },
+      "properties": {
+        "Name": "Gabrielino-15",
+        "Glottocode": "tong1329",
+        "Glottolog_Name": "Tongva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.437,
+          27.8685
+        ]
+      },
+      "properties": {
+        "Name": "Guarijio-22",
+        "Glottocode": "huar1255",
+        "Glottolog_Name": "Huarijio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.535,
+          35.7653
+        ]
+      },
+      "properties": {
+        "Name": "Hopi-16",
+        "Glottocode": "hopi1249",
+        "Glottolog_Name": "Hopi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.062,
+          21.954
+        ]
+      },
+      "properties": {
+        "Name": "Huichol-28",
+        "Glottocode": "huic1243",
+        "Glottolog_Name": "Huichol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.679,
+          36.0538
+        ]
+      },
+      "properties": {
+        "Name": "Kawaiisu-6",
+        "Glottocode": "kawa1283",
+        "Glottolog_Name": "Kawaiisu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9042,
+          34.9403
+        ]
+      },
+      "properties": {
+        "Name": "Kiowa-35",
+        "Glottocode": "kiow1266",
+        "Glottolog_Name": "Kiowa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.939,
+          33.3184
+        ]
+      },
+      "properties": {
+        "Name": "Luiseno-14",
+        "Glottocode": "luis1253",
+        "Glottolog_Name": "Luiseno-Juane\u00f1o"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.981,
+          26.4522
+        ]
+      },
+      "properties": {
+        "Name": "Mayo-25",
+        "Glottocode": "mayo1264",
+        "Glottolog_Name": "Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.347,
+          37.1935
+        ]
+      },
+      "properties": {
+        "Name": "Mono-1",
+        "Glottocode": "mono1275",
+        "Glottolog_Name": "Mono (USA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.536,
+          40.0799
+        ]
+      },
+      "properties": {
+        "Name": "Northern_Paiute-2",
+        "Glottocode": "nort2954",
+        "Glottolog_Name": "Northern Paiute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.379,
+          26.4348
+        ]
+      },
+      "properties": {
+        "Name": "Northern_Tepehuan-19",
+        "Glottocode": "nort2959",
+        "Glottolog_Name": "Northern Tepehuan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.06212,
+          31.15211
+        ]
+      },
+      "properties": {
+        "Name": "Opata-20",
+        "Glottocode": "opat1246",
+        "Glottolog_Name": "Teguima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.901,
+          36.0007
+        ]
+      },
+      "properties": {
+        "Name": "Pannamint-3",
+        "Glottocode": "pana1305",
+        "Glottolog_Name": "Panamint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.995,
+          31.7973
+        ]
+      },
+      "properties": {
+        "Name": "Papago-Pima-17",
+        "Glottocode": "toho1245",
+        "Glottolog_Name": "Tohono O'odham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.326,
+          28.654
+        ]
+      },
+      "properties": {
+        "Name": "Pima_de_Onavas-18",
+        "Glottocode": "pima1248",
+        "Glottolog_Name": "Pima Bajo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.443,
+          13.8931
+        ]
+      },
+      "properties": {
+        "Name": "Pipil-32",
+        "Glottocode": "pipi1250",
+        "Glottolog_Name": "Pipil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0703,
+          36.0542
+        ]
+      },
+      "properties": {
+        "Name": "San_Juan_Pueblo_Tewa-36",
+        "Glottocode": "sanj1276",
+        "Glottolog_Name": "San Juan (USA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.772,
+          33.9479
+        ]
+      },
+      "properties": {
+        "Name": "Serrano-11",
+        "Glottocode": "serr1255",
+        "Glottolog_Name": "Serrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.983,
+          23.1584
+        ]
+      },
+      "properties": {
+        "Name": "Southeastern_Tepehuan-33",
+        "Glottocode": "sout2976",
+        "Glottolog_Name": "Southeastern Tepehuan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0,
+          37.0
+        ]
+      },
+      "properties": {
+        "Name": "Southern_Paiute-8",
+        "Glottocode": "sout2969",
+        "Glottolog_Name": "Southern Paiute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0,
+          38.0
+        ]
+      },
+      "properties": {
+        "Name": "Southern_Ute-9",
+        "Glottocode": "utee1244",
+        "Glottolog_Name": "Ute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.154,
+          27.5648
+        ]
+      },
+      "properties": {
+        "Name": "Tarahumara-23",
+        "Glottocode": "cent2131",
+        "Glottolog_Name": "Central Tarahumara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0,
+          30.0
+        ]
+      },
+      "properties": {
+        "Name": "Tubar-24",
+        "Glottocode": "tuba1279",
+        "Glottolog_Name": "Tubar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.163,
+          35.327
+        ]
+      },
+      "properties": {
+        "Name": "Tubatulabel-10",
+        "Glottocode": "tuba1278",
+        "Glottolog_Name": "T\u00fcbatulabal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.681,
+          29.9446
+        ]
+      },
+      "properties": {
+        "Name": "Yaqui-26",
+        "Glottocode": "yaqu1251",
+        "Glottolog_Name": "Yaqui"
+      }
+    }
+  ]
+}

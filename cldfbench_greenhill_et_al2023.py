@@ -5,7 +5,7 @@ import phlorest
 
 class Dataset(phlorest.Dataset):
     dir = pathlib.Path(__file__).parent
-    id = "greenhill_et_al_subm"
+    id = "greenhill_et_al2023"
 
     def cmd_makecldf(self, args):
         self.init(args)

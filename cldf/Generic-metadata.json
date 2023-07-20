@@ -24,20 +24,15 @@
             "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
         },
         {
-            "rdf:about": "https://github.com/lexibank/utoaztecan",
+            "rdf:about": "https://doi.org/10.5281/zenodo.4691101",
             "rdf:type": "prov:Entity",
             "dc:description": "The CLDF dataset from which the data underlying the analysis was derived",
             "dc:format": "https://cldf.clld.org"
         },
         {
-            "rdf:about": "https://github.com/lexibank/utoaztecan",
-            "rdf:type": "prov:Entity",
-            "dc:description": "The dataset from which the data underlying the analysis was derived"
-        },
-        {
             "rdf:about": "https://github.com/phlorest/greenhill_et_al2023",
             "rdf:type": "prov:Entity",
-            "dc:created": "e2bf37f",
+            "dc:created": "3780233",
             "dc:title": "Repository"
         },
         {

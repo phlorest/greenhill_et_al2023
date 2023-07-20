@@ -1,12 +1,12 @@
 # Phlorest phylogeny derived from Greenhill, Haynie et al. 2023 'Uto-Aztecan (Greenhill, Haynie et al.)'
 
-[![CLDF validation](https://github.com/phlorest/greenhill_et_al_subm/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/greenhill_et_al_subm/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/phlorest/greenhill_et_al2023/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/greenhill_et_al2023/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > ...
+  > Greenhill, S., Haynie, H., Ross, R., Chira, A., List, J.-M., Campbell, L., Botero, C., & Gray, R. (2023). A recent northern origin for the Uto-Aztecan family. Language. https://doi.org/10.1353/lan.0.0276
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description

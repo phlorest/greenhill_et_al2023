@@ -11,8 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Uto-Aztecan language family computed from a bayesian analysis scaled by years.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Source available online at https://doi.org/10.1353/lan.0.0276
 
 
 ## CLDF Datasets
@@ -23,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/greenhill_et_al2023/main/summary_tree.svg)

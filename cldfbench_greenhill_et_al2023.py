@@ -21,6 +21,6 @@ class Dataset(phlorest.Dataset):
         args.writer.add_posterior(posterior, self.metadata, args.log)
 
         args.writer.add_data(
-            self.raw_dir.read_nexus('utoaztecan.nex'),
+            self.raw_dir.read_nexus('utoaztecanKT.asc.nex'),
             self.characters, 
             args.log)

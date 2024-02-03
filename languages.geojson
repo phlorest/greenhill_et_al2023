@@ -43,6 +43,11 @@
       "properties": {
         "Name": "Cahuilla-12",
         "Glottocode": "cahu1264",
+        "xd_ids": [
+          "xd1131",
+          "xd1439",
+          "xd1440"
+        ],
         "Glottolog_Name": "Cahuilla"
       }
     },
@@ -58,6 +63,9 @@
       "properties": {
         "Name": "Chemehuevi-7",
         "Glottocode": "chem1251",
+        "xd_ids": [
+          "xd1190"
+        ],
         "Glottolog_Name": "Chemehuevi"
       }
     },
@@ -73,6 +81,9 @@
       "properties": {
         "Name": "Classical_Aztec-29",
         "Glottocode": "clas1250",
+        "xd_ids": [
+          "xd1301"
+        ],
         "Glottolog_Name": "Classical Nahuatl"
       }
     },
@@ -88,6 +99,9 @@
       "properties": {
         "Name": "Comanche-5",
         "Glottocode": "coma1245",
+        "xd_ids": [
+          "xd1222"
+        ],
         "Glottolog_Name": "Comanche"
       }
     },
@@ -118,6 +132,9 @@
       "properties": {
         "Name": "Cupeno-13",
         "Glottocode": "cupe1243",
+        "xd_ids": [
+          "xd1132"
+        ],
         "Glottolog_Name": "Cupe\u00f1o"
       }
     },
@@ -148,6 +165,9 @@
       "properties": {
         "Name": "Gabrielino-15",
         "Glottocode": "tong1329",
+        "xd_ids": [
+          "xd1128"
+        ],
         "Glottolog_Name": "Tongva"
       }
     },
@@ -178,6 +198,9 @@
       "properties": {
         "Name": "Hopi-16",
         "Glottocode": "hopi1249",
+        "xd_ids": [
+          "xd1268"
+        ],
         "Glottolog_Name": "Hopi"
       }
     },
@@ -193,6 +216,9 @@
       "properties": {
         "Name": "Huichol-28",
         "Glottocode": "huic1243",
+        "xd_ids": [
+          "xd1288"
+        ],
         "Glottolog_Name": "Huichol"
       }
     },
@@ -208,6 +234,9 @@
       "properties": {
         "Name": "Kawaiisu-6",
         "Glottocode": "kawa1283",
+        "xd_ids": [
+          "xd1126"
+        ],
         "Glottolog_Name": "Kawaiisu"
       }
     },
@@ -223,6 +252,9 @@
       "properties": {
         "Name": "Kiowa-35",
         "Glottocode": "kiow1266",
+        "xd_ids": [
+          "xd1216"
+        ],
         "Glottolog_Name": "Kiowa"
       }
     },
@@ -238,6 +270,9 @@
       "properties": {
         "Name": "Luiseno-14",
         "Glottocode": "luis1253",
+        "xd_ids": [
+          "xd1133"
+        ],
         "Glottolog_Name": "Luiseno-Juane\u00f1o"
       }
     },
@@ -268,6 +303,12 @@
       "properties": {
         "Name": "Mono-1",
         "Glottocode": "mono1275",
+        "xd_ids": [
+          "xd1122",
+          "xd1162",
+          "xd1164",
+          "xd993"
+        ],
         "Glottolog_Name": "Mono (USA)"
       }
     },
@@ -298,6 +339,9 @@
       "properties": {
         "Name": "Northern_Tepehuan-19",
         "Glottocode": "nort2959",
+        "xd_ids": [
+          "xd1294"
+        ],
         "Glottolog_Name": "Northern Tepehuan"
       }
     },
@@ -313,6 +357,9 @@
       "properties": {
         "Name": "Opata-20",
         "Glottocode": "opat1246",
+        "xd_ids": [
+          "xd1293"
+        ],
         "Glottolog_Name": "Teguima"
       }
     },
@@ -328,6 +375,11 @@
       "properties": {
         "Name": "Pannamint-3",
         "Glottocode": "pana1305",
+        "xd_ids": [
+          "xd1165",
+          "xd1166",
+          "xd1167"
+        ],
         "Glottolog_Name": "Panamint"
       }
     },
@@ -388,6 +440,9 @@
       "properties": {
         "Name": "San_Juan_Pueblo_Tewa-36",
         "Glottocode": "sanj1276",
+        "xd_ids": [
+          "xd1429"
+        ],
         "Glottolog_Name": "San Juan (USA)"
       }
     },
@@ -403,6 +458,9 @@
       "properties": {
         "Name": "Serrano-11",
         "Glottocode": "serr1255",
+        "xd_ids": [
+          "xd1130"
+        ],
         "Glottolog_Name": "Serrano"
       }
     },
@@ -433,6 +491,12 @@
       "properties": {
         "Name": "Southern_Paiute-8",
         "Glottocode": "sout2969",
+        "xd_ids": [
+          "xd1187",
+          "xd1188",
+          "xd1189",
+          "xd1192"
+        ],
         "Glottolog_Name": "Southern Paiute"
       }
     },
@@ -448,6 +512,18 @@
       "properties": {
         "Name": "Southern_Ute-9",
         "Glottocode": "utee1244",
+        "xd_ids": [
+          "xd1152",
+          "xd1184",
+          "xd1186",
+          "xd1193",
+          "xd1194",
+          "xd1195",
+          "xd1197",
+          "xd1198",
+          "xd1199",
+          "xd991"
+        ],
         "Glottolog_Name": "Ute"
       }
     },
@@ -463,6 +539,9 @@
       "properties": {
         "Name": "Tarahumara-23",
         "Glottocode": "cent2131",
+        "xd_ids": [
+          "xd1286"
+        ],
         "Glottolog_Name": "Central Tarahumara"
       }
     },
@@ -493,6 +572,9 @@
       "properties": {
         "Name": "Tubatulabel-10",
         "Glottocode": "tuba1278",
+        "xd_ids": [
+          "xd1118"
+        ],
         "Glottolog_Name": "T\u00fcbatulabal"
       }
     },
@@ -508,6 +590,9 @@
       "properties": {
         "Name": "Yaqui-26",
         "Glottocode": "yaqu1251",
+        "xd_ids": [
+          "xd1292"
+        ],
         "Glottolog_Name": "Yaqui"
       }
     }

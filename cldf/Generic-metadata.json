@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/greenhill_et_al2023",
             "rdf:type": "prov:Entity",
-            "dc:created": "44accde",
+            "dc:created": "ca108f8",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.6"
+            "dc:description": "3.11.1"
         },
         {
             "dc:title": "python-packages",
@@ -121,6 +121,15 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "dc:description": "D-PLACE \u201ccross-data-set\u201d identifier, used to link societies present in different datasets, if they share a focal location. Note: If this field is empty, other fields such as Name, Glottocode or location may be used to identify languoids/societies across datasets if appropriate.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "xd[0-9]+"
+                        },
+                        "separator": " ",
+                        "name": "xd_ids"
                     },
                     {
                         "datatype": "string",
@@ -277,7 +286,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
             "dc:description": "The ParameterTable lists characters (a.k.a. sites), i.e. the (often binary) variables used as data basis to compute the phylogeny from.",
-            "dc:extent": 1305,
+            "dc:extent": 1560,
             "tableSchema": {
                 "columns": [
                     {

@@ -11,5 +11,6 @@
     "analysis": "bayesian",
     "family": "Uto-Aztecan",
     "cldf": "https://doi.org/10.5281/zenodo.4691101",
+    "artefacts": ["raw/ua-covarion-relaxed.xml"],
     "missing": {}
 }

@@ -38,5 +38,10 @@
         "linguistics"
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Greenhill, S., Haynie, H., Ross, R., Chira, A., List, J.-M., Campbell, L., Botero, C., &amp; Gray, R. (2023). A recent northern origin for the Uto-Aztecan family. Language. https://doi.org/10.1353/lan.0.0276</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Greenhill, S., Haynie, H., Ross, R., Chira, A., List, J.-M., Campbell, L., Botero, C., &amp; Gray, R. (2023). A recent northern origin for the Uto-Aztecan family. Language. https://doi.org/10.1353/lan.0.0276</p>\n</blockquote>",
+    "communities": [
+        {
+            "identifier": "phlorest"
+        }
+    ]
 }

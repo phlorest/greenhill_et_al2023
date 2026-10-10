@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "years"
     },
-    "dc:title": "Phlorest phylogeny derived from Greenhill, Haynie et al. 2023 'Uto-Aztecan (Greenhill, Haynie et al.)'",
+    "dc:title": "Phlorest phylogeny derived from Greenhill, Haynie et al. 2023",
     "dcat:accessURL": "https://github.com/phlorest/greenhill_et_al2023",
     "prov:wasDerivedFrom": [
         {
@@ -33,20 +33,20 @@
         {
             "rdf:about": "https://github.com/phlorest/greenhill_et_al2023",
             "rdf:type": "prov:Entity",
-            "dc:created": "fbdae2b",
+            "dc:created": "v1.0-5-gef03fc4",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.12.3"
+            "dc:description": "3.14.8"
         },
         {
             "dc:title": "python-packages",

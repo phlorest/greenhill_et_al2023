@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Greenhill, Haynie et al. 2023 'Uto-Aztecan (Greenhill, Haynie et al.)'
+# Phlorest phylogeny derived from Greenhill, Haynie et al. 2023
 
 [![CLDF validation](https://github.com/phlorest/greenhill_et_al2023/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/greenhill_et_al2023/actions?query=workflow%3ACLDF-validation)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17572678.svg)](https://doi.org/10.5281/zenodo.17572678)

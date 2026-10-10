@@ -1,6 +1,6 @@
 <a name="ds-genericmetadatajson"> </a>
 
-# Generic Phlorest phylogeny derived from Greenhill, Haynie et al. 2023
+# Generic Phlorest phylogeny derived from Greenhill, Haynie et al. 2023 'A recent northern origin for the Uto-Aztecan family'
 
 **CLDF Metadata**: [Generic-metadata.json](./Generic-metadata.json)
 
@@ -14,7 +14,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/2.0/
 [dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Uto-Aztecan</dd><dt>analysis</dt><dd>bayesian</dd><dt>scaling</dt><dd>years</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/phlorest/greenhill_et_al2023
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="data.nex">data.nex  None</a></li><li><a href="https://doi.org/10.5281/zenodo.4691101">https://doi.org/10.5281/zenodo.4691101  None</a></li><li><a href="https://github.com/phlorest/greenhill_et_al2023/tree/ef03fc4">phlorest/greenhill_et_al2023  v1.0-5-gef03fc4</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="data.nex">data.nex  None</a></li><li><a href="https://doi.org/10.5281/zenodo.4691101">https://doi.org/10.5281/zenodo.4691101  None</a></li><li><a href="https://github.com/phlorest/greenhill_et_al2023/tree/348c507">phlorest/greenhill_et_al2023  v1.0-7-g348c507</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.14.8</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | greenhill_et_al2023
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
